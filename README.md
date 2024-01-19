@@ -1,1 +1,1 @@
-# Open-Landslide-Project-OLP-
+# Open Landslide Project (OLP)
