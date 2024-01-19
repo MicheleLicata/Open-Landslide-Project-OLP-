@@ -1,0 +1,23 @@
+Author(s): LICATA Michele
+
+Filename code:
+	trigger: R=rainfall, E=earthquake, N=not available
+	country: country code (ITA)
+	trigger event season: spring (SPR), summer (SUM), autumn (AUT), winter (WIN) & year (YYYY)
+
+Attributes:
+	Id = landlside id
+	reach_ang = reach angle [degrees]
+	asp_ratio = aspect ratio [degrees]
+	litho_descr = lithological description
+	geol_unit = geological unit (BTP: Tertiary Piedmont Basin; ALPINE: Alpine units)
+	doi = article pubblication DOI
+	A[m2] = area [squared meters]
+	L[m] = lenght [meters]
+	W[m] = width [meters]
+	ele_dif[m] = elevation gradient from top to bottom [meters]
+	asp_avg = average aspect slope [degrees]
+	slp_avg = average steepness slope [degrees]
+
+Article link:
+	https://doi.org/10.3390/geosciences13100289
